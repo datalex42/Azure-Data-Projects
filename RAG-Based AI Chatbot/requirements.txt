@@ -1,0 +1,8 @@
+azure-search-documents==11.6.0b4
+azure-storage-blob
+azure-core
+azure-identity
+azure-keyvault-secrets
+openai
+azure-ai-translation-document
+python-dotenv
