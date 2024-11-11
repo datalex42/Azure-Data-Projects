@@ -35,4 +35,9 @@ As I continue building and exploring Azure's data and AI capabilities, more proj
 ### <center><p align = "left"> `Roadmap`</p> </center>
 
 - [X] Project: RAG-Based AI Chatbot (completed on 2024/11/11)
-...
+- [ ] tbd
+- [ ] tbd
+- [ ] tbd
+- [ ] tbd
+- [ ] tbd
+- [ ] tbd
