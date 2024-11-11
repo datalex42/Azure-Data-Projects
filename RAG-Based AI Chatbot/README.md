@@ -1,6 +1,6 @@
 # Building a RAG-Based AI Chatbot for Document Search and Retrieval
 ![Python](https://img.shields.io/badge/python-3.12.5-purple?logo=python&style=plastic)
-![Azure](https://img.shields.io/badge/Azure-red?logo=Azure&style=plastic)
+![Azure](https://img.shields.io/badge/Azure-blue?logo=Azure&style=plastic)
 
 This project demonstrates an **end-to-end workflow** for building an **RAG-Based AI Chatbot for Document Search and Retrieval**. The system utilizes **Azure Document Intelligence**, **Cognitive Search**, and **OpenAI** to enable interactive, context-driven conversations with an AI model based on document content. It combines document retrieval, semantic search, and natural language processing (NLP) to generate responses from relevant documents in real-time.
 
@@ -43,3 +43,11 @@ SEARCH_ENDPOINT=your-azure-search-endpoint
 SEARCH_API_KEY=your-azure-search-api-key
 KEY_VAULT_URI=your-key-vault-uri
 ```
+Once the environment is set up and the notebook is running, you can start asking questions such as:
+
+- "What documents match the query 'AI-powered chatbot'?"
+- "Can you retrieve information about data extraction?"
+- "Can you give me specific information about X and Y (based on the documents)"
+
+## Contributing
+If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
