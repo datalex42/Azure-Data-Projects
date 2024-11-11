@@ -18,6 +18,8 @@ Welcome to my collection of Azure-based data projects! This repository showcases
 
 ### <center><p align = "left"> `Projects Overview`</p> </center>
 
+- [RAG-Based AI Chatbot](https://github.com/datalex42/Azure-Data-Projects/blob/e9cb4de754a90c24a9d2a2ecde2ebd1dac737eb2/RAG-Based%20AI%20Chatbot/RAG-Based%20AI%20Chatbot_Workflow.ipynb)
+
 <hr>
 
 ### <center><p align = "left"> `Future Projects`</p> </center>
@@ -27,3 +29,10 @@ As I continue building and exploring Azure's data and AI capabilities, more proj
 - Data analytics with Azure Synapse Analytics and Azure Databricks.
 - AI solutions using Azure Machine Learning and Azure Cognitive Services.
 - Advanced data engineering using Azure Data Factory and Azure SQL.
+
+<hr>
+
+### <center><p align = "left"> `Roadmap`</p> </center>
+
+- [X] Project: RAG-Based AI Chatbot (completed on 2024/11/11)
+...
