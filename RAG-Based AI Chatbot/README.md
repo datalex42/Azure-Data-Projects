@@ -11,6 +11,10 @@ This project demonstrates an **end-to-end workflow** for building an **RAG-Based
 - **Embedding Generation** using OpenAI models for semantic search.
 - **Integration of AI-powered chatbot** using Retrieval-Augmented Generation (RAG).
 
+## Project Link:
+
+[RAG-Based AI Chatbot for Document Search and Retrieval](https://github.com/datalex42/Azure-Data-Projects/blob/18839565b90d05d3d1a7d298e4165c75a26bac94/RAG-Based%20AI%20Chatbot/RAG-Based%20AI%20Chatbot_Workflow.ipynb)
+
 ## Prerequisites
 
 Before starting, ensure you have the following:
