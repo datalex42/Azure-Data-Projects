@@ -13,7 +13,7 @@ This project demonstrates an **end-to-end workflow** for building an **RAG-Based
 
 ## Project Link:
 
-[RAG-Based AI Chatbot for Document Search and Retrieval](https://github.com/datalex42/Azure-Data-Projects/blob/18839565b90d05d3d1a7d298e4165c75a26bac94/RAG-Based%20AI%20Chatbot/RAG-Based%20AI%20Chatbot_Workflow.ipynb)
+[RAG-Based AI Chatbot for Document Search and Retrieval](https://github.com/datalex42/Azure-Data-Projects/blob/c16b634dd1888e4fbb3a82aff19e092ba0376263/RAG-Based%20AI%20Chatbot/RAG-Based%20AI%20Chatbot_Workflow.ipynb)
 
 ## Prerequisites
 
