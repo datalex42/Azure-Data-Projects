@@ -26,7 +26,7 @@ Welcome to my collection of Azure-based data projects! This repository showcases
 
 ### <center><p align = "left"> `Projects Overview`</p> </center>
 
-- [RAG-Based AI Chatbot](https://github.com/datalex42/Azure-Data-Projects/blob/e9cb4de754a90c24a9d2a2ecde2ebd1dac737eb2/RAG-Based%20AI%20Chatbot/RAG-Based%20AI%20Chatbot_Workflow.ipynb)
+- [RAG-Based AI Chatbot](https://github.com/datalex42/Azure-Data-Projects/blob/c16b634dd1888e4fbb3a82aff19e092ba0376263/RAG-Based%20AI%20Chatbot/RAG-Based%20AI%20Chatbot_Workflow.ipynb)
 
 <hr>
 
