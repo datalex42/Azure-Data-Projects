@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://github.com/datalex42/projects/">
+    <img src="assets/dqheadergo.gif">
+  </a>
+<p align="center">
+  </p>
+</div>
+
 ![Python](https://img.shields.io/badge/Python-3.12.5-purple?logo=python&style=plastic) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&style=plastic) 
 ![Azure Cognitive Search](https://img.shields.io/badge/Azure_Cognitive_Search-Available-0078D4?logo=microsoftazure&style=plastic) 
